@@ -22,4 +22,4 @@
 <br>
 
 ## GIF mostrando o funcionamento: 
-  ![](https://github.com/vitucomment/Java-SpringData-Crud/tree/master/gif/ExecutandoCrud.gif)
+  ![](https://github.com/vitucomment/Java-SpringData-Crud/blob/master/gif/ExecutandoCrud.gif)
